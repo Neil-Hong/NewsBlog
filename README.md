@@ -1,3 +1,19 @@
+# Introduction
+<p>This is a simple news blog website developed in ReactJS framework. Users can view and post new article.</p>
+
+The entire website is developed in react framework and the state controller using the react-redux, all pages are connected by using react-router-dom V6.
+
+It is still a skeleton website. The login function, post article function will be completed in the future.
+
+# Preview
+![image](https://github.com/Neil-Hong/NewsBlog/blob/main/src/components/statics/preview.png)
+![image](https://github.com/Neil-Hong/NewsBlog/blob/main/src/components/statics/preview2.png)
+![image](https://github.com/Neil-Hong/NewsBlog/blob/main/src/components/statics/preview3.png)
+
+# Technology Stack
+
+React, JavaScript, CSS, Styled-Component, react-router-dom(V6), React-Redux 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
